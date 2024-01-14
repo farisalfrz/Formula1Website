@@ -127,6 +127,10 @@ header {
         width: 60px;
     }
 
+    .bgimage {
+        transform: scale(1.2);
+    }
+
     .container h1 {
         font-size: 20px;
     }
