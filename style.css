@@ -126,6 +126,26 @@ header {
     header img{
         width: 60px;
     }
+
+    .container h1 {
+        font-size: 20px;
+    }
+
+    .container img{
+        width: 15vh;
+    }
+
+    .container1 h1{
+        font-size: 20px;
+    }
+
+    .image .me{
+        width: 200px;
+    }
+
+    .bg h1{
+        font-size: larger;
+    }
 }
 
 .about {
