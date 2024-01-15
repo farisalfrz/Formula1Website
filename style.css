@@ -143,12 +143,20 @@ header {
         font-size: 20px;
     }
 
+    .image {
+        font-size: small;
+    }
+
     .image .me{
         width: 200px;
     }
 
     .bg h1{
         font-size: larger;
+    }
+
+    .content {
+        font-size: x-small;
     }
 }
 
