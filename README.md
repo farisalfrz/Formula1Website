@@ -28,6 +28,8 @@ https://www.turbosquid.com/
 https://racingnews365.com/formula-1-drivers
 
 #### Information sources:
+https://en.wikipedia.org/wiki/Formula_One
+
 https://www.formula1.com/en/latest/article.in-photos-every-2023-f1-car-launch-and-livery-reveal-ahead-of-the-new-season.4uyRCmQdkRKlL0OrmgzzGQ.html
 
 https://www.formula1.com/en/teams.html
