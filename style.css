@@ -152,6 +152,11 @@ header {
     }
 }
 
+.image .me {
+    border-radius: 50%;
+    border: 3.5px solid white;
+}
+
 .about {
     margin: 0;
     padding: 15px;
