@@ -5,6 +5,7 @@ This website was created as a general explanation about Formula One and is inten
 ## Usage
 
 Open the link https://farisalfrz.github.io/WEB_10122139_FarisAlfarizi_PABCL2024/ 
+
 Animations are disabled when the screen size is less than 600 pixels (for smartphones).
 
 ## Credits
