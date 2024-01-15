@@ -10,6 +10,9 @@ Animations are disabled when the screen size is less than 600 pixels (for smartp
 
 ## Credits
 
+#### Fonts
+https://www.f1assets.com/fonts
+
 #### Parallax effect animation: 
 https://www.youtube.com/watch?v=kmM6mqvnxcs&t=170s&ab_channel=Codehal
 
